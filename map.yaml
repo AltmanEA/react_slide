@@ -1,9 +1,9 @@
 themes:
-  - url: "10_first"
-    title: "Первый раздел"
+  - url: "30_Managing_State"
+    title: "Управление состоянием"
     slides:
-      - url: "10_a"
-        title: "1Раз"
+      - url: "10_Reacting_to_Input_with_State"
+        title: "Состояние и реакция на ввод"
       - url: "20_b"
         title: "1Два"
   - url: "20_second"
