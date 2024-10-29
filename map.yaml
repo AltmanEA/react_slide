@@ -4,12 +4,6 @@ themes:
     slides:
       - url: "10_Reacting_to_Input_with_State"
         title: "Состояние и реакция на ввод"
-      - url: "20_b"
-        title: "1Два"
-  - url: "20_second"
-    title: "Второй раздел"
-    slides:
-      - url: "10_a"
-        title: "2Раз"
-      - url: "20_b"
-        title: "2Два"
+      - url: "20_Choosing_the_State_Structure"
+        title: "Выбор структуры состояния"
+
