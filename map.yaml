@@ -6,4 +6,6 @@ themes:
         title: "Состояние и реакция на ввод"
       - url: "20_Choosing_the_State_Structure"
         title: "Выбор структуры состояния"
+      - url: "30_Sharing_State_Between_Components"
+        title: "Общее состояние между компонентами"
 
