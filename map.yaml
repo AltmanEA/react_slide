@@ -8,4 +8,5 @@ themes:
         title: "Выбор структуры состояния"
       - url: "30_Sharing_State_Between_Components"
         title: "Общее состояние между компонентами"
-
+      - url: "40_Preserving_and_Resetting_State"
+        title: "Сохранение и сброс состояния"
