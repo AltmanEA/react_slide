@@ -10,3 +10,5 @@ themes:
         title: "Общее состояние между компонентами"
       - url: "40_Preserving_and_Resetting_State"
         title: "Сохранение и сброс состояния"
+      - url: "50_Extracting_State_Logic_into_a_Reducer"
+        title: "Извлечение логики состояний в reducer"
