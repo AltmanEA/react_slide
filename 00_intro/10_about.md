@@ -1,0 +1,1 @@
+[Примеры из лекций](https://github.com/antonshust/primer_lec)

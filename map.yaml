@@ -1,4 +1,9 @@
 themes:
+  - url: "00_intro"
+    title: "Введение"
+    slides:
+      - url: "10_about"
+        title: "О курсе"
   - url: "30_Managing_State"
     title: "Управление состоянием"
     slides:
