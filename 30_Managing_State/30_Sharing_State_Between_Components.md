@@ -8,7 +8,7 @@
 
 ### Пример подъема состояния
 
-```3/1/App1```
+```3/3/App1```
 
 ![](sharing_state_child.webp)
 
@@ -30,7 +30,7 @@ function Panel(
 
 ### Передача жестко закодированных данных от общего родителя
 
-```3/1/App1```
+```3/3/App2```
 ```
  <Panel title="About">
 ...
@@ -46,7 +46,7 @@ function Panel(
 
 ### Добавьте состояние к общему родителю
 
-```3/1/App3```
+```3/3/App3```
 ```
 const [activeIndex, setActiveIndex] = useState(0);
 ...
