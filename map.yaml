@@ -18,4 +18,6 @@ themes:
       - url: "50_Extracting_State_Logic_into_a_Reducer"
         title: "Извлечение логики состояний в reducer"
       - url: "60_Passing_Data_Deeply_with_Context"
-        title: "Глубокая передача данных с помощью контекста"      
+        title: "Глубокая передача данных с помощью контекста"
+      - url: "70_Scaling_Up_with_Reducer_and_Context"
+        title: "Масштабирование приложений с помощью reducer и контекста"
