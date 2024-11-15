@@ -21,3 +21,8 @@ themes:
         title: "Глубокая передача данных с помощью контекста"
       - url: "70_Scaling_Up_with_Reducer_and_Context"
         title: "Масштабирование приложений с помощью reducer и контекста"
+  - url: "40_Escape_Hatches"
+    title: "Механизмы внешнего доступа"
+    slides:
+      - url: "10_Referencing_Values_with_Refs"
+        title: "Ссылки на переменные с помощью refs"
