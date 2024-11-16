@@ -1,0 +1,18 @@
+{
+	"New slide": {
+		"prefix": [
+			"слайд", "slide"
+		],
+		"body": [
+			"---\n\n### "
+		]
+	},
+	"Insert typescript code": {
+		"prefix": [
+			"лист", "list"
+		],
+		"body": [
+			"```typescript\n$0\n```"
+		]
+	},
+}

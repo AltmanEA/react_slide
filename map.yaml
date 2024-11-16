@@ -28,3 +28,5 @@ themes:
         title: "Ссылки на переменные с помощью refs"
       - url: "20_Manipulating_the_DOM_with_Refs"
         title: "Взаимодействие с DOM с помощью refs"
+      - url: "30_Synchronizing with Effects"
+        title: "Синхронизация с помощью effects"
