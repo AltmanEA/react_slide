@@ -26,3 +26,5 @@ themes:
     slides:
       - url: "10_Referencing_Values_with_Refs"
         title: "Ссылки на переменные с помощью refs"
+      - url: "20_Manipulating_the_DOM_with_Refs"
+        title: "Взаимодействие с DOM с помощью refs"
