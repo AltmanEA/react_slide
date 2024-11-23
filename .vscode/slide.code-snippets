@@ -1,7 +1,7 @@
 {
 	"New slide": {
 		"prefix": [
-			"слайд", "slide"
+			"сла", "sli"
 		],
 		"body": [
 			"---\n\n### "
@@ -9,7 +9,7 @@
 	},
 	"Insert typescript code": {
 		"prefix": [
-			"лист", "list"
+			"лис", "lis"
 		],
 		"body": [
 			"```typescript\n$0\n```"

@@ -28,5 +28,7 @@ themes:
         title: "Ссылки на переменные с помощью refs"
       - url: "20_Manipulating_the_DOM_with_Refs"
         title: "Взаимодействие с DOM с помощью refs"
-      - url: "30_Synchronizing with Effects"
+      - url: "30_Synchronizing_with_Effects"
         title: "Синхронизация с помощью effects"
+      - url: "40_You_Might_Not_Need_an_Effect"
+        title: "Возможно, вы не нуждаетесь в эффекте"
