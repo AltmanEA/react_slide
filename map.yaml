@@ -32,3 +32,5 @@ themes:
         title: "Синхронизация с помощью effects"
       - url: "40_You_Might_Not_Need_an_Effect"
         title: "Возможно, вы не нуждаетесь в эффекте"
+      - url: "50_Lifecycle_of_Reactive_Effects"
+        title: "Жизненный цикл effects"        
