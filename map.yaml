@@ -33,4 +33,6 @@ themes:
       - url: "40_You_Might_Not_Need_an_Effect"
         title: "Возможно, вы не нуждаетесь в эффекте"
       - url: "50_Lifecycle_of_Reactive_Effects"
-        title: "Жизненный цикл effects"        
+        title: "Жизненный цикл effects"
+      - url: "50_Separating_Events_from_Effects"
+        title: "Разделение событий от эффектов"
