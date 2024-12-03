@@ -38,3 +38,5 @@ themes:
         title: "Разделение событий от эффектов"
       - url: "70_Removing_Effect_Dependencies"
         title: "Удаление зависимостей effects"
+      - url: "80_Reusing_Logic_with_Custom_Hooks"
+        title: "Переиспользование логики с помощью собственных hooks"
