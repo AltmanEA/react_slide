@@ -4,6 +4,13 @@ themes:
     slides:
       - url: "10_about"
         title: "О курсе"
+  - url: "10_Describing_the_UI"
+    title: "Разработка интерфейса"
+    slides:
+      - url: "10_Your_First_Component"
+        title: "Ваш первый компонент"
+      - url: "20_Importing_and_Exporting_Components"
+        title: "Импорт и экспорт компонентов"        
   - url: "30_Managing_State"
     title: "Управление состоянием"
     slides:
