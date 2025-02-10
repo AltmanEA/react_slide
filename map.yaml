@@ -10,7 +10,9 @@ themes:
       - url: "10_Your_First_Component"
         title: "Ваш первый компонент"
       - url: "20_Importing_and_Exporting_Components"
-        title: "Импорт и экспорт компонентов"        
+        title: "Импорт и экспорт компонентов"
+      - url: "30_Writing_Markup_with_JSX"
+        title: "Написание разметки с JSX"         
   - url: "30_Managing_State"
     title: "Управление состоянием"
     slides:

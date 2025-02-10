@@ -1,1 +1,5 @@
-[Примеры из лекций](https://github.com/antonshust/primer_lec)
+[Оригинальные материалы](https://react.dev/learn)
+
+[Перевод](https://reactdev.ru/learn/)
+
+[Практика офлайн](https://github.com/AltmanEA/react-lab)
