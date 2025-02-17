@@ -12,7 +12,9 @@ themes:
       - url: "20_Importing_and_Exporting_Components"
         title: "Импорт и экспорт компонентов"
       - url: "30_Writing_Markup_with_JSX"
-        title: "Написание разметки с JSX"         
+        title: "Написание разметки с JSX"   
+      - url: "40_JavaScript_in_JSX_with_Curly_Braces"
+        title: "Фигурные скобки в JSX"                 
   - url: "30_Managing_State"
     title: "Управление состоянием"
     slides:
