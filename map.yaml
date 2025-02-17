@@ -14,7 +14,9 @@ themes:
       - url: "30_Writing_Markup_with_JSX"
         title: "Написание разметки с JSX"   
       - url: "40_JavaScript_in_JSX_with_Curly_Braces"
-        title: "Фигурные скобки в JSX"                 
+        title: "Фигурные скобки в JSX"
+      - url: "50_Passing_Props_to_a_Component"
+        title: "Передача props компонентам"                         
   - url: "30_Managing_State"
     title: "Управление состоянием"
     slides:
