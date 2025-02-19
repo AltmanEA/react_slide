@@ -16,7 +16,9 @@ themes:
       - url: "40_JavaScript_in_JSX_with_Curly_Braces"
         title: "Фигурные скобки в JSX"
       - url: "50_Passing_Props_to_a_Component"
-        title: "Передача props компонентам"                         
+        title: "Передача props компонентам"
+      - url: "60_Conditional_Rendering"
+        title: "Условный рендеринг"        
   - url: "30_Managing_State"
     title: "Управление состоянием"
     slides:
