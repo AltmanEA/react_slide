@@ -21,6 +21,8 @@ themes:
         title: "Условный рендеринг"
       - url: "70_Rendering_Lists"
         title: "Рендеринг списков"
+      - url: "80_Keeping_Components_Pure"
+        title: "Компоненты должны быть чистыми функциями"        
   - url: "30_Managing_State"
     title: "Управление состоянием"
     slides:
