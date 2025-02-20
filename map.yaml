@@ -18,7 +18,9 @@ themes:
       - url: "50_Passing_Props_to_a_Component"
         title: "Передача props компонентам"
       - url: "60_Conditional_Rendering"
-        title: "Условный рендеринг"        
+        title: "Условный рендеринг"
+      - url: "70_Rendering_Lists"
+        title: "Рендеринг списков"
   - url: "30_Managing_State"
     title: "Управление состоянием"
     slides:
