@@ -22,7 +22,12 @@ themes:
       - url: "70_Rendering_Lists"
         title: "Рендеринг списков"
       - url: "80_Keeping_Components_Pure"
-        title: "Компоненты должны быть чистыми функциями"        
+        title: "Компоненты должны быть чистыми функциями"
+  - url: "20_Adding_Interactivity"
+    title: "Добавление_интерактивности"
+    slides:
+      - url: "10_Responding_to_Events"
+        title: "Реакция на события"                  
   - url: "30_Managing_State"
     title: "Управление состоянием"
     slides:
