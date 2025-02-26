@@ -23,6 +23,8 @@ themes:
         title: "Рендеринг списков"
       - url: "80_Keeping_Components_Pure"
         title: "Компоненты должны быть чистыми функциями"
+      - url: "90_Understanding_Your_UI_as_a_Tree"
+        title: "Понимание UI как дерева"                   
   - url: "20_Adding_Interactivity"
     title: "Добавление_интерактивности"
     slides:
