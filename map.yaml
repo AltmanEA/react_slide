@@ -31,7 +31,9 @@ themes:
       - url: "10_Responding_to_Events"
         title: "Реакция на события"
       - url: "20_State_A_Components_Memory"
-        title: "Состояние: память компонентов"                        
+        title: "Состояние: память компонентов"
+      - url: "30_Render_and_Commit"
+        title: "Рендер и коммит"
   - url: "30_Managing_State"
     title: "Управление состоянием"
     slides:
