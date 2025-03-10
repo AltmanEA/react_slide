@@ -7,6 +7,22 @@
 			"---\n\n### "
 		]
 	},
+	"Insert two column": {
+		"prefix": [
+			"кол", "rjk"
+		],
+		"body": [
+			"<div style=\"display: flex\">\n\t<div style=\"flex: 1\">\n\t</div>\n\t<div style=\"flex: 1\">\n\t<div>\n<div>"
+		]
+	},
+	"Insert three column": {
+		"prefix": [
+			"кол3", "rjk3"
+		],
+		"body": [
+			"<div style=\"display: flex; flex-wrap: wrap;\">\n<div style=\"flex: 1; max-width: 33.33%;\">\n\n</div><div style=\"flex: 1; max-width: 33.33%;\">\n\n</div><div style=\"flex: 1; max-width: 33.33%;\">\n\n</div></div>"
+		]
+	},
 	"Insert typescript code": {
 		"prefix": [
 			"лис", "kbc"
