@@ -37,7 +37,9 @@ themes:
       - url: "40_State_as_a_Snapshot"
         title: "Состояние как снимок"
       - url: "50_Queueing_a_Series_of_State_Updates"
-        title: "Очередь нескольких обновлений состояния"                  
+        title: "Очередь нескольких обновлений состояния"
+      - url: "60_Updating_Objects_in_State"
+        title: "Обновление объектов в состоянии"
   - url: "30_Managing_State"
     title: "Управление состоянием"
     slides:
