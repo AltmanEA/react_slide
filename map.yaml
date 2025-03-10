@@ -35,7 +35,9 @@ themes:
       - url: "30_Render_and_Commit"
         title: "Рендер и коммит"
       - url: "40_State_as_a_Snapshot"
-        title: "Состояние как снимок"        
+        title: "Состояние как снимок"
+      - url: "50_Queueing_a_Series_of_State_Updates"
+        title: "Очередь нескольких обновлений состояния"                  
   - url: "30_Managing_State"
     title: "Управление состоянием"
     slides:
