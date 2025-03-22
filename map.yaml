@@ -40,6 +40,8 @@ themes:
         title: "Очередь нескольких обновлений состояния"
       - url: "60_Updating_Objects_in_State"
         title: "Обновление объектов в состоянии"
+      - url: "70_Updating_Arrays_in_State"
+        title: "Обновление массивов в состоянии"        
   - url: "30_Managing_State"
     title: "Управление состоянием"
     slides:
