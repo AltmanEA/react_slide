@@ -22,7 +22,7 @@ const [position, setPosition] = useState({ x: 0, y: 0 });
 
 ### Избегайте противоречий в состоянии
 
-```3/2/App2```
+[Пример](ex1)
 
 ```
 const [isSending, setIsSending] = useState(false);
@@ -40,7 +40,7 @@ const isSent = status === 'sent';
 
 ### Избегайте избыточного состояния
 
-```3/2/App3```
+[Пример](ex2)
 
 ```
 const [firstName, setFirstName] = useState('');
@@ -58,7 +58,7 @@ const fullName = firstName + ' ' + lastName;
 
 ### Избегайте дублирования в состоянии
 
-```3/2/App5, 6, 7```
+[Дублирование](ex3) [Проблема](ex4) [Решение](ex5)
 
 ```
 const [items, setItems] = useState(initialItems);
