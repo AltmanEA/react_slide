@@ -77,7 +77,8 @@ const selectedItem = items.find(item =>
 
 ### Избегайте глубоко вложенного состояния
 
-```3/2/App8, 9```
+ [Проблема](ex6) [Решение](ex7) [Расширение](ex8) 
+
 ```
 export type PlaceType = {
     id: number,
@@ -96,33 +97,6 @@ export type PlaceType = {
     childIds: number[] }
 export type TravelPlanType = {
     [key: number]: PlaceType }
-```
-
----
-
-### Избегайте глубоко вложенного состояния
-
-```3/2/App8, 9, 10```
-```
-const initialTravelPlan = {
-    id: 0,
-    title: '(Root)',
-    childPlaces: [{
-      id: 1,
-      title: 'Earth',
-      childPlaces: [{
-        id: 2,
-        title: 'Africa',
-        childPlaces: [{
-```
-
-```
-const initialTravelPlan: TravelPlanType = {
-    0: {
-      id: 0,
-      title: '(Root)',
-      childIds: [1, 42, 46],
-    }, ...
 ```
 
 ---
