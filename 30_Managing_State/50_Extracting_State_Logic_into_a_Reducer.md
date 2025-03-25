@@ -6,9 +6,7 @@
 
 ---
 
-### Пример со сложной логикой
-
-```3/5/App1```
+### [Пример со сложной логикой](ex1)
 
 ---
 
@@ -70,9 +68,7 @@ const [tasks, dispatch] = useReducer(tasksReducer, initialTasks);
 
 ---
 
-### Полный пример с reducer
-
-```3/5/App2```
+### [Полный пример с reducer](ex2)
 
 ---
 
@@ -93,9 +89,7 @@ const [tasks, dispatch] = useReducer(tasksReducer, initialTasks);
 
 ---
 
-### Написание reducer с помощью Immer
-
-```3/5/App4```
+### [Написание reducer с помощью Immer](ex3)
 
 ```
 const [tasks, dispatch] = 
