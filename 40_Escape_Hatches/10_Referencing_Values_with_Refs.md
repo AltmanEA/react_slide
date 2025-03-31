@@ -4,9 +4,7 @@
 
 ---
 
-### Пример Ref
-
-```4/1/App1```
+### [Пример Ref](ex1)
 
 ```typescript
 import { useRef } from 'react';
@@ -18,9 +16,7 @@ ref.current = ref.current + 1;
 
 ---
 
-### Пример ref и state
-
-```4/1/App3```
+### [Пример ref и state](ex2)
 
 ---
 
@@ -60,7 +56,7 @@ ref.current = ref.current + 1;
 
 ---
 
-### Различие ref и state
+### [Различие ref и state](ex3)
 
 <table>
 <tr><th>ref</th><th>state</th>
@@ -69,8 +65,6 @@ ref.current = ref.current + 1;
     <td>Можно читать в любое время</td>
 </tr>
 </table>
-
-```4/1/App5```
 
 ---
 
